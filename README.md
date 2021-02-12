@@ -41,6 +41,6 @@
 <a href="https://linkedin.com/in/dimasdompit"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimasdompit@gmail.com"><img src="https://img.shields.io/badge/-dimasdompit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dimasdompit"><img src="https://img.shields.io/badge/-@dimasdompit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/dimasdompit"><img src="https://img.shields.io/badge/-@dimasdompit-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/dimasdompit"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/dimasdompit"><img src="https://img.shields.io/badge/-@dimasdompit-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
