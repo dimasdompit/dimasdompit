@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying VueJS & Laravel.\
+🎓 &nbsp;I'm currently learning VueJS & Laravel.\
 🌱 &nbsp;I'm on track for learning more about Fullstack Development, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue UI/UX Design and Playing Games as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at dimasdompit@gmail.com! I'll try to respond as soon as I can.\
