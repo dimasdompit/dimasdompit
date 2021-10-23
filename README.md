@@ -5,9 +5,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently learning VueJS & Laravel.\
-🌱 &nbsp;I'm on track for learning more about Fullstack Development, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue UI/UX Design and Playing Games as hobbies/side hustles.\
+🎓 &nbsp;I'm currently learning about many tech stacks.\
+🌱 &nbsp;I'm on track for learning more about Fullstack Development & Systems Design.\
+✍️ &nbsp;In my free time, I pursue Graphic Design, Music Production & Playing Games as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at dimasdompit@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/dimasdompit/dimasdompit/master/assets/Night-Coding.gif" align="right"/>
@@ -23,6 +23,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
